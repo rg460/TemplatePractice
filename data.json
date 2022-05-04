@@ -1,0 +1,61 @@
+{
+    "soccer": {
+        "name": "football",
+        "subscribers": 800000,
+        "description": "The football subreddit. News, results and discussion about the beautiful game.",
+        "posts": [
+            {
+                "title": "Thierry Henry is the greatest player to play in the premier league.",
+                "author": "Gooner99",
+                "img": "https://www.arsenalpics.com/p/5/thierry-henry-breaks-tottenham-defence-way-4379759.jpg.webp"
+            },
+            {
+                "title": "Who's the goat Ronaldo or Messi?",
+                "author": "RealMadridBoy04"
+            },
+            {
+                "title": "Guardiola or Klopp - who is the better manager ?",
+                "author": "ArseneWenger"
+            }
+        ]
+    },
+    "Anime": {
+        "name": "Anime",
+        "subscribers": 23956,
+        "description": "A place to post your photos, video and questions about Anime!",
+        "posts": [
+            {
+                "title": "Kamehameha!!!!!",
+                "author": "Goku",
+                "img": "https://static.wikia.nocookie.net/dragonball/images/b/b4/Dragon-ball-kai.jpg/revision/latest/scale-to-width-down/250?cb=20111218225415"
+            },
+            {
+                "title": "I love  Attack on titans",
+                "author": "Anime boi",
+                "img": "https://www.denofgeek.com/wp-content/uploads/2020/09/Attack-on-Titan-Season-4-Poster.jpg?resize=725,1024"
+            },
+            {
+                "title": "Demon Slayer is great",
+                "author": "LightYagami1989",
+                "img": "https://m.media-amazon.com/images/M/MV5BODI2NjdlYWItMTE1ZC00YzI2LTlhZGQtNzE3NzA4MWM0ODYzXkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_.jpg"
+            }
+        ]
+    },
+    "Coding": {
+        "name": "Coding",
+        "subscribers": 44002,
+        "description": "A place to post your memes,tips, tutorials and questions about Coding!",
+        "posts": [
+            {
+                "title": "My first Programming Language was JavaScript",
+                "author": "JsDevKid",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHA6tLWc70_0Bb48EbYsex5rHKVsvzyaPWFw&usqp=CAU"
+            },
+            {
+                "title": "I love web development ",
+                "author": "grower123"
+                
+            }
+        ]
+    }
+}
