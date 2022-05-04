@@ -1,5 +1,5 @@
 {
-    "soccer": {
+    "football": {
         "name": "football",
         "subscribers": 800000,
         "description": "The football subreddit. News, results and discussion about the beautiful game.",
@@ -19,8 +19,8 @@
             }
         ]
     },
-    "Anime": {
-        "name": "Anime",
+    "anime": {
+        "name": "anime",
         "subscribers": 23956,
         "description": "A place to post your photos, video and questions about Anime!",
         "posts": [
@@ -41,8 +41,8 @@
             }
         ]
     },
-    "Coding": {
-        "name": "Coding",
+    "coding": {
+        "name": "coding",
         "subscribers": 44002,
         "description": "A place to post your memes,tips, tutorials and questions about Coding!",
         "posts": [
