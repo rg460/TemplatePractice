@@ -27,7 +27,7 @@ app.get('/r/:subreddit',(req,res)=>{
     const  {subreddit} = req.params;
     const data = redditData[subreddit];
     console.log(data);
-    res.render('subreddit', { subreddit });
+    res.render('subreddit', { ...data });
    
 })
 app.set('views', path.join(__dirname, '/views'))
